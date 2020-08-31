@@ -1,5 +1,5 @@
 const fs = require('fs');
-const store = require("../db/db.json");
+const store = require("./db/db.json");
 
 module.exports = function (app) {
     app.get('/api/notes', function(req, res) {
@@ -24,8 +24,8 @@ module.exports = function (app) {
     });
  
     app.delete('./api/notes/:id', function(req, res) {
-        let deleteNote = content.find(({id}) => id === JSON.parse(req.params.id));
-        content.splice(content.indexOf(deleteContent), 1);
+        let deleteNote = store.find(({id}) => id === JSON.parse(req.params.id));
+        store.splice(store.indexOf(deleteNote), 1);
         fs.writeFile("./db/db.json", JSON.stringify(store), function(err) {
             if (err) throw (err);
         });

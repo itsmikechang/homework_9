@@ -14,5 +14,8 @@
     "fs": "0.0.1-security",
     "loader": "^2.1.1",
     "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }

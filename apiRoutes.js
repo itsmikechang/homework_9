@@ -1,5 +1,5 @@
 const fs = require("fs");
-const content = require("../db/db.json");
+const content = require("./db/db.json");
 
 module.exports = function(app) {
     

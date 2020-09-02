@@ -6,9 +6,9 @@
   name of 'MERICA. The app is simple, you open the link in your browser flavor of choice, and get to typing! It's that simple jack!
   
   ## Preview
-  ![readmescreenshot](/visuals/readme.png)
-  ![readmegif](/visuals/readme.gif)
-  ![result](/visuals/readmedeployed.png)
+  ![Photo 1](/photogifs/screen1.png)
+  ![Photo 2](/photogifs/screen2.gif)
+  ![Gif](/photogifs/screenrec.png)
 
   ## Table of contents
   * [Description](#description)

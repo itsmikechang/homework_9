@@ -10,15 +10,6 @@
   ![Photo 2](/photogifs/screen2.png)
   ![Gif](/photogifs/screenrec.gif)
 
-  ## Table of contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributors](#contributors)
-  * [Tests](#tests)
-  * [Questions](#questions)
-
   ## Usage
   It takes notes and saves them, super plain. super simple. Oh, almost forgot you can delete them too. 
 

@@ -7,8 +7,8 @@
   
   ## Preview
   ![Photo 1](/photogifs/screen1.png)
-  ![Photo 2](/photogifs/screen2.gif)
-  ![Gif](/photogifs/screenrec.png)
+  ![Photo 2](/photogifs/screen2.png)
+  ![Gif](/photogifs/screenrec.gif)
 
   ## Table of contents
   * [Description](#description)
